@@ -7,3 +7,5 @@ jupyter
 matplotlib
 seaborn
 jupytext
+streamlit
+plotly
