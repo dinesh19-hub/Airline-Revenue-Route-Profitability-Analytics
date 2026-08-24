@@ -14,6 +14,7 @@ CREATE TABLE Routes (
     OriginAirport VARCHAR(3),
     DestAirport VARCHAR(3),
     DistanceMiles INT,
+    BaseOperatingCost DECIMAL(10,2),
     FOREIGN KEY (OriginAirport) REFERENCES Airports(AirportCode),
     FOREIGN KEY (DestAirport) REFERENCES Airports(AirportCode)
 );
