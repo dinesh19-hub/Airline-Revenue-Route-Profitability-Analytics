@@ -1,0 +1,11 @@
+AirportCode,City,Country,Region,HubStatus
+JFK,New York,USA,North America,True
+LAX,Los Angeles,USA,North America,True
+ORD,Chicago,USA,North America,True
+ATL,Atlanta,USA,North America,True
+DFW,Dallas,USA,North America,True
+SFO,San Francisco,USA,North America,False
+MIA,Miami,USA,North America,False
+SEA,Seattle,USA,North America,False
+BOS,Boston,USA,North America,False
+DEN,Denver,USA,North America,False
